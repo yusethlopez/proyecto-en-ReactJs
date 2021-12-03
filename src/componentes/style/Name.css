@@ -1,0 +1,17 @@
+.nombre{
+    text-align: center;
+    padding: 70px 50px 0 50px;
+}
+.name {
+    margin: 6px;
+}
+.profesion {
+    margin: 6px;
+    color: rgb(60, 61, 60);
+    font-weight: 500;
+}
+.descrip{
+
+    font-size: 15px;
+    font-weight: 500;
+}
